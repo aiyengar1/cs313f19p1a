@@ -6,13 +6,13 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-public class TestHelloWorld {
+ public class TestWordCounter {
 
-  private HelloWorld fixture;
+     private WordCounter fixture;
 
   @Before
   public void setUp() throws Exception {
-    fixture = new HelloWorld();
+      fixture = new WordCounter();
   }
 
   @After
