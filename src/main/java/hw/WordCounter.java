@@ -23,12 +23,15 @@ public class WordCounter {
   }
 
   public void addWord(final String word) {
-    //add word to theMap
-    //if word exists
-    //then update frequency: getCount + 1
+    //if the word already exists, add 1 to its frequency (value)
+    if (theMap.containsKey(word)) {
+      //update frequency
+      theMap.put(word, theMap.get(word) + 1);
+    }
     //else addword to map
-    //theMap.put(word, 1);
-
+    else {
+      theMap.put(word, 1);
+    }
   }
 
   /** Counts the frequencies of all words in the given iterator.
@@ -63,5 +66,6 @@ public class WordCounter {
   public String getTopWords() {
     //Sort map by descending order
     //return only top 'size' words and their frequencies
+    return null;
   }
 }

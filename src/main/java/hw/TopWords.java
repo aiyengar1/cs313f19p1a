@@ -24,33 +24,35 @@ public class TopWords {
         lastnwords = input.nextInt();
         int count = 0;
 
-        final Iterator<String> iterator = new Iterator<String>;
+        //System.out.println(input.next());
+
+        //final Iterator<String> iterator = new Iterator<String>;
+
         // TODO complete this main program
         // 1. create a WordCounter instance
-        Map<String, Integer> wordMap = new Map<String, Integer>;
-        WordCounter wordcount = new WordCounter(howmany);
+        // WordCounter wordcount = new WordCounter(howmany);
         // 2. use this to count the words in the input
         // 3. determine the size of the resulting map
         // 4. create an ArrayList of that size and
-        // 5. store the map's entries in it (these are of type Map.Entry<String, Integer>
+        // 5. store the map's entries in it (these are of type Map.Entry<String, Integer>)
         // 6. sort the ArrayList in descending order by count
         //    using Collections.sort and an instance of the provided comparator (after fixing the latter)
-        // 7. print the (up to) ten most frequent words in the text
-        if (count == lastnwords) {
-            if (iterator.next().length() >= minlength) {
+
+        /*if (count == lastnwords) {
+            if (input.next().length() >= minlength) {
                 //remove first from arraydeque
                 //call getcount(iterator.next()) in wordcounter
                 //add iterator.next() last to arraydeque
                 //call and print getTopWords
             }
         } else {
-            if (iterator.next().length() >= minlength) {
+            if (input.next().length() >= minlength) {
                 //call getcount(iterator.next()) in wordcounter
                 //add iterator.next() last to arraydeque
                 //call and print getTopWords
                 count++;
             }
-        }
+        }*/
 
     }
 }
