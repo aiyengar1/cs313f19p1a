@@ -17,11 +17,30 @@ public class TopWords {
         //final WordCounter instance = new WordCounter();
         // set up the scanner so that it separates words based on space and punctuation
 
-        final Scanner input = new Scanner(System.in).useDelimiter("[^\\p{Alnum}]+");
-        int howmany, minlength, lastnwords;
-        howmany = input.nextInt();
-        minlength = input.nextInt();
-        lastnwords = input.nextInt();
+        //final Scanner input = new Scanner(System.in).useDelimiter("[^\\p{Alnum}]+");
+
+        int howmany, minlength, lastnwords = 0;
+
+        switch (args.length) {
+            case 0:
+                howmany = 10;
+                minlength = 6;
+                lastnwords = 1000;
+                break;
+            case 1:
+                howmany = Integer.parseInt(args[0]);
+                break;
+            case 2:
+                howmany = Integer.parseInt(args[0]);
+                minlength = Integer.parseInt(args[1]);
+                break;
+            case 3:
+                howmany = Integer.parseInt(args[0]);
+                minlength = Integer.parseInt(args[1]);
+                lastnwords = Integer.parseInt(args[2]);
+                break;
+        }
+
         int count = 0;
 
         //System.out.println(input.next());
@@ -30,28 +49,33 @@ public class TopWords {
 
         // TODO complete this main program
         // 1. create a WordCounter instance
-        // WordCounter wordcount = new WordCounter(howmany);
-        // 2. use this to count the words in the input
-        // 3. determine the size of the resulting map
-        // 4. create an ArrayList of that size and
+        WordCounter wordcount = new WordCounter(lastnwords);
+        // 4. create an ArrayList of size
         // 5. store the map's entries in it (these are of type Map.Entry<String, Integer>)
         // 6. sort the ArrayList in descending order by count
         //    using Collections.sort and an instance of the provided comparator (after fixing the latter)
 
-        /*if (count == lastnwords) {
+        System.out.println(lastnwords);
+
+        //String testword = input.next();
+        //wordcount.addWord(testword);
+
+        /*while(input.hasNext()){
+        if (count == lastnwords) {
             if (input.next().length() >= minlength) {
-                //remove first from arraydeque
+                //remove first from arrayList
                 //call getcount(iterator.next()) in wordcounter
-                //add iterator.next() last to arraydeque
+                //add iterator.next() last to arrayList
                 //call and print getTopWords
             }
         } else {
             if (input.next().length() >= minlength) {
                 //call getcount(iterator.next()) in wordcounter
-                //add iterator.next() last to arraydeque
-                //call and print getTopWords
+                //add iterator.next() last to arrayList
+                //don't print word cloud
                 count++;
             }
+        }
         }*/
 
     }
