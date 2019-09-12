@@ -17,7 +17,7 @@ public class TopWords {
         //final WordCounter instance = new WordCounter();
         // set up the scanner so that it separates words based on space and punctuation
 
-        //final Scanner input = new Scanner(System.in).useDelimiter("[^\\p{Alnum}]+");
+        final Scanner input = new Scanner(System.in).useDelimiter("[^\\p{Alnum}]+");
 
         int howmany, minlength, lastnwords = 0;
 
@@ -57,8 +57,10 @@ public class TopWords {
 
         System.out.println(lastnwords);
 
-        //String testword = input.next();
-        //wordcount.addWord(testword);
+        String testword = input.next();
+        wordcount.addWord(testword);
+        System.out.println(wordcount.getCount(testword));
+
 
         /*while(input.hasNext()){
         if (count == lastnwords) {
