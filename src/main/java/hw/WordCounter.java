@@ -1,7 +1,5 @@
 package hw;
 
-//import org.apache.commons.lang.StringUtils;
-
 import java.util.*;
 
 /**
@@ -23,7 +21,6 @@ public class WordCounter {
     }
 
     public void addWord(final String word) {
-        // if (StringUtils.isNotEmpty(word)) {
             //if the word already exists in the map, add 1 to its frequency (value)
             if (theMap.containsKey(word)) {
                 //update frequency
@@ -34,11 +31,9 @@ public class WordCounter {
                 theMap.put(word, 1);
             }
         }
-    //  }
 
     //when word is removed from window, frequency must decrease by 1
-    /*public void decreaseFrequency(final String word) {
-        if (StringUtils.isNotEmpty(word)) {
+    public void decreaseFrequency(final String word) {
             if (theMap.get(word) > 1) {
                 theMap.put(word, theMap.get(word) - 1);
             }
@@ -46,8 +41,7 @@ public class WordCounter {
             else {
                 theMap.remove(word);
             }
-        }
-    }*/
+    }
 
     /** Counts the frequencies of all words in the given iterator.
      public void countWords(final Iterator<String> words) {

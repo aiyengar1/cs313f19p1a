@@ -7,6 +7,8 @@ a textual word cloud.
  */
 package hw;
 
+import org.apache.commons.collections4.queue.CircularFifoQueue;
+
 import java.util.Arrays;
 import java.util.*;
 
@@ -39,6 +41,10 @@ public class TopWords {
                 minlength = Integer.parseInt(args[1]);
                 lastnwords = Integer.parseInt(args[2]);
                 break;
+            default:
+                howmany = Integer.parseInt(args[0]);
+                minlength = Integer.parseInt(args[1]);
+                lastnwords = Integer.parseInt(args[2]);
         }
 
         int count = 0;
@@ -50,21 +56,31 @@ public class TopWords {
         // TODO complete this main program
         // 1. create a WordCounter instance
         WordCounter wordcount = new WordCounter(lastnwords);
-        // 4. create an ArrayList of size
+
+        // 4. create an circularfifo of size lastnwords
+        final Queue<String> queue = new CircularFifoQueue<>(lastnwords);
+
         // 5. store the map's entries in it (these are of type Map.Entry<String, Integer>)
         // 6. sort the ArrayList in descending order by count
         //    using Collections.sort and an instance of the provided comparator (after fixing the latter)
 
+        while (input.hasNext()) {
+            final String word = input.next();
+            queue.add(word);
+            System.out.println(queue);
+        }
+
         System.out.println(lastnwords);
 
-        String testword = input.next();
-        wordcount.addWord(testword);
-        System.out.println(wordcount.getCount(testword));
+        //String testword = input.next();
+        //wordcount.addWord(testword);
+        //System.out.println(wordcount.getCount(testword));
 
 
         /*while(input.hasNext()){
+           input.next() = nextWord;
         if (count == lastnwords) {
-            if (input.next().length() >= minlength) {
+            if (nextWord.length() >= minlength) {
                 //remove first from arrayList
                 //call getcount(iterator.next()) in wordcounter
                 //add iterator.next() last to arrayList
