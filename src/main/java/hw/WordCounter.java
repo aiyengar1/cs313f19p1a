@@ -1,6 +1,11 @@
 package hw;
 
+import java.security.Key;
 import java.util.*;
+import java.util.stream.Collectors;
+
+import static java.util.stream.Collectors.toList;
+import static java.util.stream.Collectors.toMap;
 
 /**
  * A map-based class for counting word frequencies from an iterator.
@@ -72,9 +77,27 @@ public class WordCounter {
      * }
      */
 
-    public String getTopWords() {
+    public Map getSortedWords(Map<String, Integer> unsortedMap) {
         //Sort map by descending order
-        //return only top 'size' words and their frequencies
-        return null;
+        Map<String, Integer> sorted = unsortedMap;
+        sorted.entrySet()
+                .stream()
+                .sorted(Collections.reverseOrder(Map.Entry.comparingByValue()))
+                .collect(
+                        toMap(Map.Entry::getKey, Map.Entry::getValue, (e1, e2) -> e2,
+                                LinkedHashMap::new));
+        return sorted;
+    }
+
+    //toString method to return only top 'size' words and their frequencies
+    public String toString(int cloudsize) {
+        final Map maptoprint = getSortedWords(theMap);
+        ArrayList<String> keyList = new ArrayList<String>(maptoprint.keySet());
+        ArrayList<Integer> valueList = new ArrayList<Integer>(maptoprint.values());
+        String wordcloud = maptoprint.toString();
+        /*for (int i = 0; i < cloudsize; i++) {
+            wordcloud = "\n" + wordcloud + " " + keyList.get(i) + ": " + valueList.get(i) + "\n";
+        }*/
+        return wordcloud;
     }
 }

@@ -7,7 +7,7 @@ a textual word cloud.
  */
 package hw;
 
-import org.apache.commons.collections4.queue.CircularFifoQueue;
+import org.apache.commons.collections4.queue.*;
 
 import java.util.Arrays;
 import java.util.*;
@@ -21,7 +21,7 @@ public class TopWords {
 
         final Scanner input = new Scanner(System.in).useDelimiter("[^\\p{Alnum}]+");
 
-        int howmany, minlength, lastnwords = 0;
+        int howmany = 0, minlength = 0, lastnwords = 0;
 
         switch (args.length) {
             case 0:
@@ -54,47 +54,35 @@ public class TopWords {
         //final Iterator<String> iterator = new Iterator<String>;
 
         // TODO complete this main program
-        // 1. create a WordCounter instance
+        //create a WordCounter instance
         WordCounter wordcount = new WordCounter(lastnwords);
 
-        // 4. create an circularfifo of size lastnwords
+        //create an CircularFifoQueue of size lastnwords
         final Queue<String> queue = new CircularFifoQueue<>(lastnwords);
 
-        // 5. store the map's entries in it (these are of type Map.Entry<String, Integer>)
-        // 6. sort the ArrayList in descending order by count
-        //    using Collections.sort and an instance of the provided comparator (after fixing the latter)
+        System.out.println();
 
         while (input.hasNext()) {
-            final String word = input.next();
-            queue.add(word);
-            System.out.println(queue);
-        }
-
-        System.out.println(lastnwords);
-
-        //String testword = input.next();
-        //wordcount.addWord(testword);
-        //System.out.println(wordcount.getCount(testword));
-
-
-        /*while(input.hasNext()){
-           input.next() = nextWord;
-        if (count == lastnwords) {
-            if (nextWord.length() >= minlength) {
-                //remove first from arrayList
-                //call getcount(iterator.next()) in wordcounter
-                //add iterator.next() last to arrayList
-                //call and print getTopWords
-            }
-        } else {
-            if (input.next().length() >= minlength) {
-                //call getcount(iterator.next()) in wordcounter
-                //add iterator.next() last to arrayList
-                //don't print word cloud
-                count++;
+            final String nextWord = input.next();
+            if (count == lastnwords) {
+                if (nextWord.length() >= minlength) {
+                    //add nextWord to queue
+                    queue.add(nextWord);
+                    //call and print getTopWords
+                    //System.out.println(wordcount.toString(howmany));
+                }
+            } else {
+                if (input.next().length() >= minlength) {
+                    //add nextWord to queue
+                    queue.add(nextWord);
+                    //don't print word cloud
+                    //increment count
+                    count++;
+                }
             }
         }
-        }*/
+
+        System.out.println(wordcount.getCount("yellow"));
 
     }
 }
