@@ -22,7 +22,6 @@ public class WordCounter {
 
         // TODO
         this.size = worldcloudsize;
-
     }
 
     public void addWord(final String word) {
@@ -50,21 +49,24 @@ public class WordCounter {
 
     public int getCount(final String word) {
 
-        // TODO
-
-        return theMap.getOrDefault(word, 100);
+        return theMap.get(word);
 
     }
 
     public Map getSortedWords(Map<String, Integer> unsortedMap) {
         //Sort map by descending order
-        Map<String, Integer> sorted = unsortedMap;
+       /* Map<String, Integer> sorted = unsortedMap;
         sorted.entrySet()
                 .stream()
                 .sorted(Collections.reverseOrder(Map.Entry.comparingByValue()))
                 .collect(
                         toMap(Map.Entry::getKey, Map.Entry::getValue, (e1, e2) -> e2,
                                 LinkedHashMap::new));
+        return sorted;*/
+
+        TreeMap<String, Integer> sorted = new TreeMap<>(Collections.reverseOrder());
+        sorted.putAll(theMap);
+
         return sorted;
     }
 
@@ -75,7 +77,7 @@ public class WordCounter {
         ArrayList<Integer> valueList = new ArrayList<Integer>(maptoprint.values());
         String wordcloud = "";
         for (int i = 0; i < cloudsize; i++) {
-            wordcloud = wordcloud + " " + keyList.get(i) + ": " + valueList.get(i) + "\n";
+            wordcloud = "\n" + wordcloud + " " + keyList.get(i) + ": " + valueList.get(i) + "\n";
         }
         return wordcloud;
     }
