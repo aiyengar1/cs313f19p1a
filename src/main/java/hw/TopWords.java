@@ -15,11 +15,8 @@ import java.util.*;
 public class TopWords {
 
     public static void main(final String[] args) {
-        //System.out.println("args = " + Arrays.asList(args));
-        //final WordCounter instance = new WordCounter();
         // set up the scanner so that it separates words based on space and punctuation
-
-        final Scanner input = new Scanner(System.in).useDelimiter("[^\\p{Alnum}]+");
+        final Scanner input = new Scanner(System.in).useDelimiter("(?U)[^\\p{Alpha}0-9']+");
 
         int howmany = 0, minlength = 0, lastnwords = 0;
 
@@ -47,11 +44,8 @@ public class TopWords {
                 lastnwords = Integer.parseInt(args[2]);
         }
 
+        //initialize count to zero
         int count = 0;
-
-        //System.out.println(input.next());
-
-        //final Iterator<String> iterator = new Iterator<String>;
 
         // TODO complete this main program
         //create a WordCounter instance
@@ -60,29 +54,32 @@ public class TopWords {
         //create an CircularFifoQueue of size lastnwords
         final Queue<String> queue = new CircularFifoQueue<>(lastnwords);
 
-        System.out.println();
-
-        while (input.hasNext()) {
-            final String nextWord = input.next();
-            if (count == lastnwords) {
+        while (input.hasNext() || input.hasNextLine()) {
+            final String nextWord = (String) input.next();
+            if (count == lastnwords - 1) {
+                if (nextWord.length() >= minlength) {
+                    //remove oldest word from map
+                    wordcount.decreaseFrequency(queue.element());
+                    //add nextWord to queue
+                    queue.add(nextWord);
+                    //add nextWord to WordCount HashMap
+                    wordcount.addWord(nextWord);
+                    //call and print getTopWords
+                    System.out.println(wordcount.toString(howmany));
+                }
+            } else {
                 if (nextWord.length() >= minlength) {
                     //add nextWord to queue
                     queue.add(nextWord);
-                    //call and print getTopWords
-                    //System.out.println(wordcount.toString(howmany));
-                }
-            } else {
-                if (input.next().length() >= minlength) {
-                    //add nextWord to queue
-                    queue.add(nextWord);
+                    //add nextWord to Map
+                    wordcount.addWord(nextWord);
                     //don't print word cloud
                     //increment count
                     count++;
                 }
             }
         }
-
         System.out.println(wordcount.getCount("yellow"));
-
+        input.close();
     }
 }

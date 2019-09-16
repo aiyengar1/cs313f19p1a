@@ -21,6 +21,17 @@ import org.junit.Test;
     fixture = null;
   }
 
+     @Test
+     public void addWord() {
+         assertNotNull(fixture);
+         assertEquals(5, fixture.getCount("yellow"));
+     }
+
+     @Test
+     public void decreaseFrequency() {
+         assertNotNull(fixture);
+         assertEquals(5, fixture.getCount("yellow"));
+     }
   /*@Test
   public void getMessage() {
     assertNotNull(fixture);
