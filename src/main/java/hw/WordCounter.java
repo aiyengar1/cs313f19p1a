@@ -53,54 +53,30 @@ public class WordCounter {
 
     }
 
-    public Map getSortedWords(Map<String, Integer> unsortedMap) {
+    public Map<String, Integer> getSortedWords(final Map<String, Integer> unsortedMap) {
         //Sort map by descending order
-       /* Map<String, Integer> sorted = unsortedMap;
-        sorted.entrySet()
+        /*TreeMap<String, Integer> sorted = new TreeMap<>(Collections.reverseOrder());
+        sorted.putAll(unsortedMap);*/
+
+        Map<String, Integer> sorted = unsortedMap.entrySet()
                 .stream()
-                .sorted(Collections.reverseOrder(Map.Entry.comparingByValue()))
-                .collect(
-                        toMap(Map.Entry::getKey, Map.Entry::getValue, (e1, e2) -> e2,
-                                LinkedHashMap::new));
-        return sorted;*/
-
-        TreeMap<String, Integer> sorted = new TreeMap<>(Collections.reverseOrder());
-        sorted.putAll(theMap);
-
+                .sorted(Map.Entry.comparingByValue())
+                .collect(Collectors.toMap(
+                        Map.Entry::getKey,
+                        Map.Entry::getValue,
+                        (oldValue, newValue) -> oldValue, LinkedHashMap::new));
         return sorted;
     }
 
     //toString method to return only top 'size' words and their frequencies
     public String toString(int cloudsize) {
-        final Map maptoprint = getSortedWords(theMap);
+        Map maptoprint = getSortedWords(theMap);
         ArrayList<String> keyList = new ArrayList<String>(maptoprint.keySet());
         ArrayList<Integer> valueList = new ArrayList<Integer>(maptoprint.values());
         String wordcloud = "";
-        for (int i = 0; i < cloudsize; i++) {
-            wordcloud = "\n" + wordcloud + " " + keyList.get(i) + ": " + valueList.get(i) + "\n";
+        for (int i = 0, j = keyList.size() - 1; i < cloudsize; i++, j--) {
+            wordcloud = "\n" + wordcloud + " " + keyList.get(j) + ": " + valueList.get(j) + "\n";
         }
         return wordcloud;
     }
-
-    /**
-     * Retrieve the map representing all word frequencies.
-     * public Map<String, Integer> getCounts() {
-     * return Collections.unmodifiableMap(theMap);
-     * }
-     */
-
-    /** Counts the frequencies of all words in the given iterator.
-     public void countWords(final Iterator<String> words) {
-     int count = 0;
-     // TODO for each word in the iterator, update the corresponding frequency in the map
-     // Use the getOrDefault method
-     while(words.hasNext()){
-
-     }
-
-     }*/
-
-    /**
-     * Retrieve the frequency of a particular word.
-     */
 }

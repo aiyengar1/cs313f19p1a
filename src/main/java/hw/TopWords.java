@@ -88,7 +88,6 @@ public class TopWords {
                 }
             }
         }
-        System.out.println(wordcount.getCount("yellow"));
         input.close();
     }
 }
