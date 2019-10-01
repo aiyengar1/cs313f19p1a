@@ -29,12 +29,10 @@ public class WordCounter {
         if (theMap.containsKey(word)) {
             //update frequency
             theMap.put(word, theMap.get(word) + 1);
-            //System.out.println("Word added");
         }
         //else addword to map
         else {
             theMap.put(word, 1);
-            //System.out.println("Word added");
         }
     }
 
@@ -42,12 +40,10 @@ public class WordCounter {
     public void decreaseFrequency(final String word) {
         if (theMap.get(word) > 1) {
             theMap.put(word, theMap.get(word) - 1);
-            //System.out.println("Word deleted");
         }
         //if occurrence being removed is only occurrence, then word must be removed from map
         else {
             theMap.remove(word);
-            //System.out.println("Word deleted");
         }
     }
 
@@ -61,7 +57,6 @@ public class WordCounter {
         //Sort map by descending order
         /*TreeMap<String, Integer> sorted = new TreeMap<>(Collections.reverseOrder());
         sorted.putAll(unsortedMap);*/
-        //System.out.println("Sorting called");
 
         Map<String, Integer> sorted = unsortedMap.entrySet()
                 .stream()
@@ -75,7 +70,6 @@ public class WordCounter {
 
     //toString method to return only top 'size' words and their frequencies
     public String toString(int cloudsize) {
-        //System.out.println("ToString called");
         Map maptoprint = getSortedWords(theMap);
         ArrayList<String> keyList = new ArrayList<String>(maptoprint.keySet());
         ArrayList<Integer> valueList = new ArrayList<Integer>(maptoprint.values());
@@ -83,7 +77,6 @@ public class WordCounter {
         if (cloudsize < keyList.size()) {
             for (int i = 0, j = keyList.size() - 1; i < cloudsize; i++, j--) {
                 wordcloud = "\n" + wordcloud + " " + keyList.get(j) + ": " + valueList.get(j) + "\n";
-                //System.out.println("Word added to word cloud");
             }
         } else {
             for (int i = keyList.size() - 1; i >= 0; i--) {

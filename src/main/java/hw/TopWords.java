@@ -62,7 +62,7 @@ public class TopWords {
         final Queue<String> queue = new CircularFifoQueue<>(lastnwords);
         while (input.hasNextLine()) {
             while (input.hasNext()) {
-                //System.out.println("input has Next");
+
 
                 //get input, create event, throw event
 
@@ -72,22 +72,17 @@ public class TopWords {
                     if (count == lastnwords) {
                         //remove oldest word from map
                         wordcount.decreaseFrequency(queue.element());
-                        //System.out.println("element deleted from map");
                         //add nextWord to queue
                         queue.add(nextWord);
-                        //System.out.println("element added to queue");
                         //add nextWord to WordCount HashMap
                         wordcount.addWord(nextWord);
-                        //System.out.println("Element added to map");
                         //call and print getTopWords
                         System.out.println(wordcount.toString(howmany));
                     } else if (count == lastnwords - 1) {
                         //add nextWord to queue
                         queue.add(nextWord);
-                        //System.out.println("word added to queue");
                         //add nextWord to WordCount HashMap
                         wordcount.addWord(nextWord);
-                        //System.out.println("Word added to map");
                         //call and print getTopWords
                         System.out.println(wordcount.toString(howmany));
                         //increment count
@@ -95,14 +90,11 @@ public class TopWords {
                     } else {
                         //add nextWord to queue
                         queue.add(nextWord);
-                        //System.out.println("word added to queue");
                         //add nextWord to Map
                         wordcount.addWord(nextWord);
-                        //System.out.println("word added to map");
                         //don't print word cloud
                         //increment count
                         count++;
-                        //System.out.println("count incremented");
                     }
                 }
             }
