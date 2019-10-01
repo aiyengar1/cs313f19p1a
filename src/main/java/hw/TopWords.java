@@ -61,7 +61,6 @@ public class TopWords {
         //create an CircularFifoQueue of size lastnwords
         final Queue<String> queue = new CircularFifoQueue<>(lastnwords);
         while (input.hasNextLine()) {
-            //System.out.println("input has Next Line");
             while (input.hasNext()) {
                 //System.out.println("input has Next");
 
