@@ -1,1 +1,950 @@
-Lab Lab Golden Lab Golden Beagle Beagle Lab Golden Beagle Poodle Beagle Poodle Lab
+EPISTEMIC INJUSTICE AND A ROLE FOR VIRTUE IN THE POLITICS OF KNOWING
+Author(s): MIRANDA FRICKER
+Source: Metaphilosophy, Vol. 34, No. 1/2 (January 2003), pp. 154-173
+Published by: Wiley
+Stable URL: https://www.jstor.org/stable/24439230
+Accessed: 09-03-2019 04:44 UTC
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+Wiley is collaborating with JSTOR to digitize, preserve and extend access to Metaphilosophy
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003.
+ Published by Blackwell Publishing, 9600 Garsington Road, Oxford 0X4 2DQ, UK and
+ 350 Main Street, Maiden, MA 02148, USA
+ METAPHILOSOPHY
+ Vol. 34, Nos. 1/2, January 2003
+ 0026-1068
+ EPISTEMIC INJUSTICE AND A ROLE FOR VIRTUE IN THE
+ POLITICS OF KNOWING
+ MIRANDA FRICKER
+ ABSTRACT: The dual aim of this article is to reveal and explain a certain
+ phenomenon of epistemic injustice as manifested in testimonial practice, and to
+ arrive at a characterisation of the anti-prejudicial intellectual virtue that is such as
+ to counteract it. This sort of injustice occurs when prejudice on the part of the
+ hearer leads to the speaker receiving less credibility than he or she deserves. It is
+ suggested that where this phenomenon is systematic it constitutes an important
+ form of oppression.
+ Keywords: credibility, epistemic injustice, ethical sensibility, historicism, internal
+ reasons, oppression, prejudice, social identity, testimonial sensibility, virtue.
+ There is a growing sympathy with the idea that epistemology should look
+ to ethics for conceptual tools to use in solving traditional epistemological
+ problems. My aim here is to identify a role for virtue in accounting for
+ both the rationality and the ethics of what must surely be our most basic
+ and ubiquitous epistemic practice - the practice of gaining knowledge by
+ being told.
+ I shall try to argue that a central difficulty in the epistemology of testi
+ mony is best handled by reference to a notion that belongs in the first
+ instance to ethics, the notion of a sensibility. To this end I shall advance the
+ idea of a testimonial sensibility: something that governs our responsive
+ ness to the word of others so that, given the sensibility is properly
+ educated, we may gain knowledge that p simply by being told that p. Next,
+ on the assumption that such a sensibility incorporates a variety of intellec
+ tual skills and virtues that govern how much credibility the responsible
+ hearer will attribute to different sorts of speakers in different sorts of
+ circumstances, I shall identify a phenomenon of epistemic injustice with a
+ view to homing in on the particular virtue whose role it is, or should be, to
+ pre-empt such injustice. The form of epistemic injustice in question
+ happens when a speaker receives the wrong degree of credibility from his
+ hearer owing to a certain sort of unintended prejudice on the hearer's part.
+ The virtue I shall try to home in on, whose role it is to safeguard against
+ such operations of prejudice, embodies a special sort of reflexive critical
+ openness to the word of others. The possession of this virtue is presented
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ EPISTEMIC INJUSTICE AND A ROLE FOR VIRTUE 155
+ as an important regulator in the politics of testimonial practice, though I
+ shall suggest ultimately that its powers are limited.
+ 1. Avoiding Intellectualism: The Word of Others
+ There is a certain impasse to be detected in a traditional approach to the
+ epistemology of testimony.1 When we try to account for what goes on in
+ an informal discursive context when someone comes to know that p by an
+ interlocutor's telling him that p, it can seem as if we must plump for one
+ of two epistemological stories. It can seem as if we must either endorse the
+ idea that the hearer gains knowledge just by being uncritically receptive to
+ the speaker's word, so long as there are no explicit signals that scepticism
+ is in order, or else endorse the idea that the hearer gains knowledge only
+ in virtue of rehearsing an appropriate inference - an argument whose
+ conclusion licenses believing what he has been told. Thus the choice of
+ philosophical pictures can seem to be between sheer uncritical receptive
+ ness on the one hand and intellectualist argumentation on the other.
+ The shortcoming of each is the allure of the other. The uncritical-recep
+ tivity model surely leaves us too open to believing anything people tell us,
+ so that, in the absence of signals of untrustworthiness, we are licensed to
+ be entirely uncritical.2 Philosophical accounts of testimonial knowledge
+ will require the speaker to be both competent and honest with respect to
+ her assertion that p. But the experience of everyday life leaves us only too
+ aware that human beings cannot systematically be relied on in respect of
+ either. Crudely, people often get things wrong, out of innocent error, or
+ perhaps because they fancy they know when really they don't. And of
+ course people can also succumb to the temptation to mislead deliberately
+ - for instance, because it is in their interests to do so. When these two types
+ of unreliability are compounded with the obvious fact that such mundane
+ things as haste, or misunderstanding the inquirer's purposes, or simple
+ carelessness can lead a speaker to mispronounce even on something he is
+ perfectly competent and ready to be honest about, it becomes clear that a
+ blanket policy of accepting the word of others unmediated by any critical
+ filtering would be justificationally lax. The mere absence of explicit
+ signals for doubt is not enough to justify a general habit of uncritically
+ accepting what other people tell one.
+ This shortcoming in the uncritical-receptivity model might draw one's
+ sympathies towards the inferential model. As C. A. J. Coady (1992,
+ 122-23) describes it, this common picture of testimony has it "that all
+ knowledge by testimony is indirect or inferential. We know that p when
+ 1 For an account of how the impasse is merely an artefact of a certain misguided concep
+ tion of the philosophical options, see McDowell 1998.
+ 2 See Elizabeth Fricker 1994, and also 1987, in which she presents a powerful case
+ against the idea that we have a "presumptive right" to believe what we are told in the
+ absence of countervailing evidence.
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ 156 MIRANDA FRICKER
+ reliably told that p because we make some inference about the reliability
+ and sincerity of the witness." In an alternative formulation, John
+ McDowell presents the inferentialist model as resting on the following
+ assumption:
+ If an epistemically satisfactory standing in the space of reasons, with respect to
+ a proposition, is mediated rather than immediate, that means the standing is
+ constituted by the cogency of an argument that is at its occupant's disposal,
+ with the proposition in question as conclusion. (McDowell 1998, 415)
+ On either formulation the inferential model is clearly invulnerable to
+ accusations of justificational laxity, since it precisely requires that the
+ hearer go in for a piece of reasoning that provides a justification for
+ believing what she has been told. Inevitably this will usually be some sort
+ of inductive argument - for instance, an argument about the individual
+ speaker's past reliability on these matters, or about the general reliability
+ of people like that about things like this. But the trouble now is that this
+ requirement that the hearer avail herself of such an argument seems too
+ strong, because too laborious intellectually. It simply does not match our
+ everyday phenomenology of informal testimonial exchange, which
+ presents learning something by being told as distinctly tm-laborious and
+ spontaneous. Surely an epistemic practice as basic to human life as being
+ told-things-by-someone-who-knows cannot possibly require all that
+ activity at the level of propositional attitudes. If the hearer were genuinely
+ supposed to consider (in however rule-of-thumb-ish a way) the likelihood
+ that she has been told a truth, that would take at least a moment's hard
+ nosed assessment of a sort that simply does not tally with the effortless
+ spontaneity characteristic of so much of our everyday testimonial
+ exchange.
+ The advocate of the inferential model will naturally respond by empha
+ sising that the mature hearer will normally rehearse her argument very
+ readily and easily. But the more he is at pains to emphasise that such justi
+ ficatory argumentation can be so swift as barely to be noticed, and might
+ even be altogether unconscious, the more the model strikes one as a piece
+ of intellectualism in a tight corner.
+ This problem with the inferential model now leads one back again to the
+ picture on which the hearer is entitled, other things being equal, to be
+ uncritically receptive to what she is told, for this picture of things can now
+ be seen to retain something rather strongly in its favour: it more faithfully
+ represents the phenomenology of our everyday exchanges. In the absence
+ of explicit cues for doubt we do seem simply to accept most of what we
+ are told without going in for any active critical assessment. An ordinary
+ case might be that, as I make my way hurriedly to the train station, I ask a
+ stranger what the time is, he tells me it is 4:30, and I simply, unreflectively,
+ accept what he says. This unreflectiveness is underlined by the fact that if
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ EPISTEMIC INJUSTICE AND A ROLE FOR VIRTUE 157
+ I do pick up on some cue for doubt - such as his saying it is 4:30 when I
+ already know it cannot be later than four o'clock - then I experience a sort
+ of intellectual shift of gear, out of that unreflective mode and into some
+ more active one of critical assessment. It is only with this shift of gear that
+ I might start to bring some argumentation to bear on the matter of my inter
+ locutor's trustworthiness.
+ But now we may feel that the intuitive relevance of the evidence of past
+ experience in how we are conditioned to receive the word of others has
+ gone missing from the ordinary unreflective case. Surely one's knowledge
+ of a particular speaker's track record, or one's general background
+ assumptions about how likely it is that someone like this will speak the
+ truth about something like that, must be somewhere in the offing? If such
+ inductive considerations are wholly absent from our unreflective
+ exchanges, imposing no constraint whatsoever upon what the hearer is
+ entitled to accept, then this does seem to leave our ordinary unreflective
+ exchanges in an unacceptable rational vacuum. This thought, then, casts
+ the inferentialist model once again in a more favourable light. And so,
+ perhaps, the oscillation continues.
+ The conclusion I suggest we should draw from these brief considera
+ tions is that what is needed to provide a suitable exit from the impasse is a
+ picture of informal testimonial exchange that honours the everyday
+ phenomenology of unreflective transparency between speaker and hearer,
+ while none the less avoiding justificational laxity. We need a positive
+ account of how the responsible hearer may spontaneously and non-infer
+ entially give an appropriately critical reception to the speaker's word. This
+ critical reception must be such that, reliably, when the hearer simply
+ accepts what he is told by someone who knows, he is justified in simply
+ accepting it. The reception will be one of openness to his interlocutor's
+ assertions, yet critical too - the hearer's normal stance needs to find a
+ philosophical characterisation such that it constitutes a critical openness to
+ the word of others. Such a characterisation will be able to explain how,
+ when we are told things, we are indeed able to acquire knowledge, and as
+ effortlessly as the phenomenology suggests.
+ 2. The Responsible Hearer
+ McDowell argues for the view that a hearer gains knowledge by testimony
+ in virtue of exercising "doxastic responsibility"; and what it is to exercise
+ doxastic responsibility is explained in characteristic Sellarsian terms of a
+ "sensitivity" to one's place in the "space of reasons." As I understand this
+ way of putting things, the idea of a "mediated standing in the space of
+ reasons" is the idea of a state - a state of knowledge, for example - that
+ has been arrived at by way of an appropriate sensitivity to the reasons for
+ and against the proposition. This sensitivity need not manifest itself in the
+ making of inferences or arguments - precisely not. As McDowell says:
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ 158 MIRANDA FRICKER
+ What I am proposing is a different conception of what it is for a standing in the
+ space of reasons to be mediated. A standing in the space of reasons can be
+ mediated by the rational force of surrounding considerations, in that the
+ concept of that standing cannot be applied to a subject who is not responsive to
+ that rational force. (McDowell 1998, 430)
+ So, if the standing in the space of reasons is "knowing that p," then
+ McDowell's proposal is that this knowing that p has as a background
+ precondition that the knower has somehow exercised a sensitivity to
+ surrounding reasons for and against taking it that p.
+ If one accepts this eminently acceptable proposal, then it is natural to
+ move to the next question and ask, If not by our usual faculties of argu
+ mentation and inference, then by what rational capacity is the hearer able
+ to be responsive to the rational force of surrounding reasons? The idea that
+ the fulfilment of doxastic responsibility need not require argumentation is
+ surely crucial to explaining how testimonial knowledge can be mediated
+ yet direct (or, as I am putting it, critical yet non-inferential), but something
+ further needs to be said to explain how the hearer does it. If she is not exer
+ cising her capacity for inference and argumentation, what rational capac
+ ity is she exercising?
+ McDowell is minded to say there is nothing to be explained here:
+ If we are not to explain the fact that having heard from someone that things are
+ thus and so is an epistemic standing by appealing to the strength of an argument
+ that things are that way ... do we need some other account of it? I would be
+ tempted to maintain that we do not. The idea of knowledge by testimony is that
+ if a knower gives intelligible expression to his knowledge, he puts it into the
+ public domain, where it can be picked up by those who can understand the
+ expression, as long as the opportunity is not closed to them because it would be
+ doxastically irresponsible to believe the speaker. That idea seems obvious
+ enough to stand on its own epistemological feet; the formulation makes as
+ much sense of the idea that knowledge can be transmitted from one subject to
+ another as any purported explanation could hope to confer on it. (McDowell
+ 1998,437-38).
+ But I am not sure that nothing more is needed here. One does not have
+ to be an advocate of inferentialism to think that something more is called
+ for in order to explain how a hearer can count as exercising doxastic
+ responsibility if her acceptance of what she has been told is not based on
+ any sort of inference or argumentation.
+ Let me be clear that the non-satisfaction I am registering is not about
+ what doxastically responsible behaviour consists in, as if I were demand
+ ing that some rule-like norms or principles be explicated. No doubt there
+ are a number of norms general enough to be expressed as guiding princi
+ ples of a hearer's doxastic responsibility, but we don't need them in order
+ to have a reasonably firm idea of what that responsibility requires. Indeed,
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ EPISTEMIC INJUSTICE AND A ROLE FOR VIRTUE 159
+ those of us sympathetic to virtue-theoretical accounts of responsibility
+ might be quite happy with the possibility that there were no such princi
+ ples available at all. The question of what constitutes doxastic responsibil
+ ity for a hearer, then, is not my worry. The worry is rather that the claim
+ that a hearer exercises such responsibility without making any inferences
+ leaves one wondering how - by what capacity of reason - she is supposed
+ to do it.
+ If we look to Coady, we find tacit support for the view that something
+ is needed on this score, since he does make a brief suggestion, albeit rather
+ too brief to provide more than a pointer. He asserts we have a "learning
+ mechanism" that operates critically though non-inferentially in the hearer
+ to determine the balance of trust. He says:
+ What happens characteristically in the reception of testimony is that the audi
+ ence operates a sort of learning mechanism which has certain critical capacities
+ built into it. The mechanism may be thought of as partly innate, though modi
+ fied by experience, especially in the matter of critical capacities. It is useful to
+ invoke the model of a mechanism here since the reception of testimony is
+ normally unreflective but is not thereby uncritical. (Coady 1992, 47)
+ This seems exactly right, but as it stands the metaphor of a learning mech
+ anism remains philosophically and psychologically mysterious. So much
+ so that we are not much better off with this idea of a mechanism than we
+ were with the non-metaphorical but equally elusive idea of a hearer's
+ doxastic responsibility exercised non-inferentially.
+ It is time to take stock. What we are looking for is some mode of ratio
+ nal sensitivity that yields spontaneous, non-inferential judgements. And
+ we are also looking for a mode of rational sensitivity that is learned, and
+ learned in an ongoing way so that it is constantly developing and adjusting
+ itself in the light of experience and critical reflection. I propose that at this
+ point epistemology should turn to ethics for sustenance. For in ethics we
+ find a notion that seems to me to fit the bill: the notion of a sensibility. An
+ ethical sensibility yields genuine judgements - interpretative judgements,
+ such as "That was cowardly," or immediately practical judgements, such
+ as "I ought to confess" - yet these judgements are not conclusions to argu
+ ments. (They may permit of reconstruction as conclusions to arguments,
+ but that is quite another thing. A rational reconstruction of a human prac
+ tice does not automatically constitute a proper characterisation of it.) A
+ well-trained ethical sensibility will presumably incorporate a range of rele
+ vant conceptual and social-perceptual skills, but most importantly it will
+ comprise ethical virtues. The central place of virtue explains how a sensi
+ bility issues in non-inferential judgements. The virtuous person does not
+ have to work out that an act was cowardly, or that the culprit should own
+ up; he just sees that this is the case; he just knows. Continuing in this
+ broadly Aristotelian vein, we might add that the virtuous person is able to
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ 160 MIRANDA FRICKER
+ perceive the moral colourations of things spontaneously in this way in
+ virtue of his sensibility being formed by a proper ethical training or
+ upbringing.
+ This idea of ethical training will be important for present purposes, but we
+ shall need a more historicist or socially situated conception than we find in
+ Aristotle. Let me suggest, then, that we think of the training of a sensibility
+ as involving at least two distinct streams of input: social and individual - in
+ that order. One develops an ethical sensibility by becoming inculcated with
+ a historically and culturally specific way of life - or as Alasdair Maclntyre
+ puts it, an ethical "tradition"3 - where this is to be construed as a matter of
+ ongoing ethical socialisation. There again, it is from an irreducibly individ
+ ual life experience that one gains a particular sentimental education, and in
+ that respect the ongoing formation of one's sensibility is something
+ distinctly individual. Together these two streams of input - collective and
+ individual - continually generate a person's sensibility.
+ The deliverances of an individual's sensibility, then, are shaped by a set
+ of background interpretative and motivational attitudes, which are in the
+ first instance passively inherited from the ethical community but thereafter
+ actively reflected upon and lived out in one way or another by the reflec
+ tive individual. Ethical responsibility demands that there be an appropriate
+ critical link between the traditional moment in which the individual gains
+ her ethical socialisation and the experiences life offers her - experiences
+ that may sometimes be in tension with her ethical socialisation so as to
+ prompt critical reflection on the sensibility which she has otherwise simply
+ inherited.4
+ This idea of a sensibility gives us a picture of how judgements can be
+ rational yet unreflective, critical yet non-inferential. It presents us with a
+ rational capacity that is comprised of virtues, that is inculcated in the
+ subject through a process of socialisation, and that permits of ongoing
+ correction and adjustment in the light of experience and critical reflection.
+ Thus we are confronted with a rational capacity unlike anything
+ commonly entertained in epistemology, and a version of it seems to me to
+ fit the bill as the explanation of how a hearer might be able to give an unre
+ flective yet critical reception to the word of another. With this in mind, we
+ must now ask what the epistemic analogue of an ethical sensibility would
+ be like for testimony. I would like to think that this is not only a worth
+ while philosophical question in its own right but also an important ques
+ tion at the level of epistemic practice. For if one wants to know how to
+ improve one's performance as a receiver of the word of others - if one
+ wants to become more responsible and successful as a hearer - then one
+ had better know what, if not one's skills of inference and argument, one
+ should be trying better to develop.
+ 3 See Maclntyre 1981, especially chapter 15.
+ 4 I have tried to develop this theme in my 2000.
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ EPISTEMIC INJUSTICE AND A ROLE FOR VIRTUE 161
+ 3. Testimonial Sensibility: Critical Openness to the Word of Others
+ We are setting our sights on the possibility that responsible hearers in unre
+ flective testimonial exchanges exercise a testimonial sensibility. This
+ possibility introduces the idea that our responses to the testimony of others
+ are learned and internalised through a process of epistemic socialisation -
+ a social training of the interpretative and affective attitudes in play when
+ we are told things by other people. We might think of it as part of our epis
+ temic "second nature."5 Here, again, I suggest there is in the first instance
+ a passive social inheritance and then a sometimes-passive-sometimes
+ active individual input from the hearer's own experience. Together these
+ two streams of input mean that our normal unreflective reception of what
+ people tell us is conditioned by a great range of collateral experience. Just
+ as the experiences pertinent to the training of ethical virtues are inter
+ nalised in the sensibility of the virtuous person, so the body of collective
+ and individual testimonial experience is internalised by the responsible or
+ virtuous hearer, rendering it immanent in her testimonial sensibility.
+ It is through the inductive influence of this body of experience that we
+ may learn, reliably enough, to assume trust when and only when it is in
+ order. Our perception of speakers and their assertions comes to be
+ informed by an inductive conditioning relating to what sorts of people are
+ likely to convey the truth about which sorts of subject matters, just as in
+ the ethical case our perception of agents and their actions comes to be
+ informed by a motivational conditioning relating to what sorts of actions
+ are ethically called for in which sorts of situations.
+ There is more to be said, however, about what sorts of experiences prop
+ erly feed into a testimonial sensibility. They will chiefly be experiences of
+ testimonial exchanges had by the individual and the wider community. But
+ it must be acknowledged that these experiences can only have a rational
+ impact on sensibility under a socially rich description. This is because the
+ only way they can have inductive significance is by being such as to support
+ or undermine existing habits of response concerning what sorts of people
+ are trustworthy in what sorts of situations; which sorts of incentives to
+ deceive are likely to be acted upon by which sorts of people; and so on. A
+ testimonial sensibility, then, needs to be shaped by collective and individ
+ ual experiences of testimonial encounters described in rich, socially specific
+ terms relating to the trustworthiness of speakers of different social types in
+ different sorts of contexts. These descriptions cannot but involve common
+ cultural stereotypes of intellectual authority or its lack, perhaps by way of
+ related characteristics, such as openness or inscrutability, steadiness or flak
+ iness, rationality or emotionality, dependability or deviousness, logicality
+ 5 I echo John McDowell's use of this term, which he finds "all but explicit in Aristotle's
+ account of how ethical character is formed," and which he extends to apply not simply to
+ our ethical upbringing (Aristotle's "practical wisdom") but also, more generally, to our epis
+ temic upbringing (McDowell 1994, 84).
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ 162 MIRANDA FRICKER
+ or intuitiveness.... I use stereotype neutrally, but of course stereotypes are
+ fertile ground for prejudice, so it is easy to see how a testimonial sensibil
+ ity may come to embody the prejudices of the day. Where a testimonial
+ sensibility is informed by stereotypes that are unfair - that is, where they
+ are empirically unfounded - the sensibility will be both epistemically and
+ ethically defective.
+ We shall return to this theme, but for the moment the point is rather that
+ such elements of the social imagination as stereotypes of authority can be
+ a perfectly proper part of a testimonial sensibility, for the necessary social
+ richness of the body of testimonial experience which informs sensibility
+ means that stereotypes are positively needed to oil the mechanism of our
+ day-to-day exchanges. Hearers need spontaneously to perceive their inter
+ locutors in a socially fine-grained way so that they can be appropriately
+ responsive to all the subtleties of the interaction. Without this richness of
+ social perception, many epistemically relevant cues will be missed.
+ Consider, for instance, what complexity there can be in cues indicating
+ how far one should interpret an interlocutor as taking seriously what he is
+ asserting. Perhaps the hearer sees the speaker as entirely competent in all
+ relevant matters, yet still her perception of him has to be responsive to all
+ sorts of features of social location and discursive style that would not
+ figure in any but the richest of social-psychological descriptions of the
+ encounter.
+ If these remarks provide a reasonable working idea of which experi
+ ences feed into sensibility, is there something further we can say about how
+ an individual takes them on in sensibility? Here again the task is to develop
+ a parallel with the ethical case. An individual's testimonial sensibility will
+ in the first instance be passively inherited. This passivity is justified,
+ firstly, for the a priori reason that the body of judgements and attitudes
+ which comprise a sensibility constitute the basis from which a hearer's
+ doxastic responsibility emerges. And, secondly, for the empirical reason
+ that even a minimally successful epistemic community must be operating
+ with a broadly functional testimonial sensibility. But once light has
+ dawned for a hearer, she will come to find that sometimes her experiences
+ of testimonial exchange will be in tension with the deliverances of the
+ sensibility she has passively taken on, in which case responsibility requires
+ that her sensibility adjust itself to accommodate the new experience.
+ This might happen spontaneously, without active critical reflection on
+ the part of the hearer, but it is more likely that she will need actively to
+ bring critical thought to bear on her internalised habits of hearer response
+ in order to shake them up sufficiently to effect the adjustment. If, for
+ instance, a hearer is a teenager whose testimonial sensibility has contracted
+ the defect of not taking seriously what old people say, and if this teenager
+ finds himself one day struck by the veracity of his grandfather's stories of
+ the war, he may experience a small epistemic revolution that requires some
+ significant deliberative follow-through in terms of how he receives the
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ EPISTEM1C INJUSTICE AND A ROLE FOR VIRTUE 163
+ word of the elderly quite generally. In so far as this teenager is doxastically
+ responsible, he will effect an adjustment to his testimonial sensibility
+ either directly, by way of a shift of social perception, or indirectly, by way
+ of critical reflection. If the adjustment is direct, then he will undergo a
+ Gestalt switch in how he perceives elderly speakers so that the adjustment
+ to his testimonial sensibility is more or less instantaneous. If it is indirect,
+ then active critical reflection on his habits of hearer response will first
+ produce some sort of corrective policy external to the hearer's sensibility.
+ (Perhaps this teenager disciplines himself when in conversation with the
+ elderly, "Don't be dismissive. . . .") Given time, and all being well, such a
+ corrective policy will become internalised as an integral part of his sensi
+ bility, so that it comes to be implicit in his newly conditioned perception
+ of elderly speakers.
+ Whether direct or indirect, then, we can see how the responsible
+ hearer's sensibility matures and adapts in the light of ongoing testimonial
+ experience. Its claim to be a capacity of reason crucially depends on this
+ adaptiveness, for otherwise it would be little more than a dead-weight
+ social conditioning that looked more like a threat to the justification of a
+ hearer's responses than a source of that justification.
+ This model for how inductive rationality can be embodied in sensibility
+ shows that the making of an explicit inferential step is not the only way
+ that the justificatory force of induction can enter into the hearer's reception
+ of a speaker's word: an appropriately trained testimonial sensibility
+ enables the hearer to respond to the word of another with the sort of criti
+ cal openness that is required for a thoroughly effortless sharing of knowl
+ edge.
+ To sum up this section, then, the idea of a testimonial sensibility has in
+ its favour not only that it represents a way out of the impasse with which
+ we began (where we were stuck oscillating between the uncritical-recep
+ tion model and the inferentialist model of testimonial knowledge) but also
+ that it retains those features of each model that explained its attractiveness.
+ Testimonial sensibility, as I have characterised it, pictures inductive ratio
+ nality as the basic source of justification for hearer response, and this was
+ the main thing we found attractive in the inferentialist model. Yet it also
+ pictures hearer response in such a way that where knowledge is gained it
+ is usually non-inferential. This means that the idea of a testimonial sensi
+ bility honours our everyday phenomenology of spontaneity and unreflec
+ tiveness, thus incorporating the non-intellectualism we found attractive in
+ the uncritical-reception model.
+ Perhaps enough has now been said to show that the idea of a testimo
+ nial sensibility is able to explain how everyday testimonial knowledge can
+ be non-inferential. But more needs to be said about what constitutes such
+ a sensibility. I would like to think that introducing the notion opens up
+ some new terrain for work of a virtue-ethical kind in exploring which
+ virtues are properly incorporated into such a sensibility - work that could
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ 164 MIRANDA FRICKER
+ be regarded as either replacing or complementing more technical, proba
+ bilistic approaches to these matters. My next task here, then, will be to
+ home in on one virtue in particular, which - although it is in a certain way
+ thoroughly familiar - does not have a name. The role that this virtue has to
+ play in testimonial practice comes into view only if we follow through the
+ implications of our historicist, socially situated conception of the epistemic
+ socialisation that forms testimonial sensibility. More particularly, it comes
+ into view if we return to the role of social stereotypes in how a sensibility
+ determines habits of hearer response. I have said that such stereotypes,
+ where empirically founded, are a perfectly legitimate heuristic and a
+ necessary determining factor in how a hearer perceives a speaker. But we
+ must also confront the fact that in any actual human society, human soci
+ eties being what they are, it is inevitable that such speaker stereotypes are
+ susceptible to distortion by the prejudices of the day. Stereotypes inform
+ ing testimonial exchange will tend to imitate relations of social power at
+ large in the society. Our everyday, face-to-face testimonial encounters
+ bring to bear a whole social consciousness in an instant, and this creates a
+ deep structural liability to prejudicial dysfunction in our testimonial prac
+ tices.
+ 4. Epistemic Injustice: The Word of Others
+ Broadly speaking, prejudicial dysfunction in testimonial practice can be of
+ two kinds. Either the prejudice results in the speaker's receiving more cred
+ ibility than she rationally deserves - credibility excess - or it results in her
+ receiving less credibility than she rationally deserves - credibility deficit.6
+ Consider the immediate discursive impact of accent, for instance. Not only
+ does a speaker's accent carry a great deal of baggage in terms of how a
+ hearer perceives the speaker socially; I would suggest that part and parcel
+ of this social perception are implications for how the hearer perceives the
+ speaker epistemically. Accent can have a significant impact on how much
+ credibility the hearer affords the speaker, especially in a one-off exchange.
+ 6 Someone might ask how far the idea of a credibility excess or deficit depends on there
+ being some exact degree of credibility which the speaker is due. I share Coady's scepticism
+ about there being any precise science here, any precise credibility ratio to determine what
+ degree of belief the hearer is entitled to. As Coady says, people are not like coins, exhibit
+ ing quite general tendencies to be right and honest about things (see Coady 1992, 210). And
+ I see no reason to think this difficulty can be made good by building a sensitivity to subject
+ matter into one's calculations, for the likelihood of speaker veracity is always dependent on
+ which of an indeterminate number of discursive contexts the interlocutors happen to be in
+ (including maximally contingent shifts of context that depend, for instance, on whether the
+ speaker is in the mood for being undetectably sarcastic, and so on). This dependence on such
+ finely differentiated contexts seems not merely to indicate that if there is a precise proba
+ bility available then it can hardly be available to the hearer. Rather, it would seem to indi
+ cate that there is no such precise probability available at all, and that the matter is in some
+ significant degree indeterminate.
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ EPISTEMIC INJUSTICE AND A ROLE FOR VIRTUE 165
+ I do not mean that someone's accent is especially likely to lead a hearer,
+ even an intensely prejudiced one, simply to disbelieve some perfectly
+ believable assertion, or simply to believe some otherwise incredible asser
+ tion. Given that it is overwhelmingly in the interests of hearers in general
+ to believe what is true and not believe what is false, it would have to be an
+ unusual prejudice to be strong enough to have that sort of effect. (We
+ should note, however, that social contexts structured by relations of
+ systematically unequal social power do have a habit of generating situa
+ tions in which a hearer with the greater social power is in a position such
+ that it costs him nothing to disbelieve a manifestly believable speaker, as
+ one of my examples will demonstrate.)
+ More usually, however, power will influence hearer-response in a less
+ obvious way. Rather than turning belief into non-belief or vice versa, it
+ will surreptitiously raise or lower the hearer's degree of belief, by inflat
+ ing or deflating the credibility he affords the speaker. Epistemic trust, like
+ other kinds of trust, has an affective7 aspect that is influenced - sometimes
+ rightly, sometimes wrongly - by how the hearer perceives the interlocutor.
+ Its key affective aspect is a kind of minimal interpretative sympathy with
+ the speaker that allows signs of her trustworthiness to be picked up on in
+ the hearer's perception of her. Even such a minimal sympathy will be
+ signally uneven across differences of social identity and especially where
+ those differences of identity are characterised by dramatically unequal
+ relations of power. Both of the examples I shall present illustrate how the
+ social "otherness" of the speaker is fundamental to the prejudiced recep
+ tion their word is given - the hearers re-enact their general social advan
+ tage in the reception they give the speaker's word.
+ To the examples, then. Both present cases of credibility deficit (rather
+ than credibility excess), since that is the phenomenon that most urgently
+ calls for the specific anti-prejudicial virtue I aim to identify. My first
+ example is drawn from a novel, To Kill a Mockingbird, by Harper Lee
+ (1974); the second is drawn from a screenplay, The Talented Mr Ripley, by
+ Anthony Minghella (2000).8 I offer the first as an example in which the
+ epistemic failings on the part of the hearer (or rather hearers) is clearly
+ culpable, the second as an example in which it is plausible to suggest that
+ the hearer inflicts the injustice non-culpably. Each presents an instance of
+ epistemic injustice in testimony - an instance, then, of testimonial injus
+ tice.
+ First example: The year is 1935, and the scene a courtroom in
+ Maycomb County, Alabama. The defendant is a young black man named
+ Tom Robinson. He is charged with raping a white girl, Mayella Ewell,
+ whose family's run-down house he passes every day on his way to and
+ ' See Jones 1996.
+ 8 Minghella's screenplay is closely based on Patricia Highsmith's novel, though,
+ crucially for present purposes, the character of Marge Sherwood and her relationship with
+ Dickie Greenleaf is developed differently.
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ 166 MIRANDA FRICKER
+ from work. It is obvious to the reader, and would be obvious to any rela
+ tively unprejudiced person in the courtroom, that Tom Robinson is entirely
+ innocent. For Addicus Finch, our politely spoken counsel for the defence,
+ has proved beyond doubt that Robinson could not have beaten the Ewell
+ girl so as to cause the sort of cuts and bruises she sustained that day,
+ because whoever gave her this beating led with his left fist, whereas Tom
+ Robinson's left arm is disabled, injured in an accident when he was a boy.
+ The trial proceedings present a fairly clear-cut struggle between the power
+ of evidence and the power of racial prejudice, with the all-white jury's
+ sympathies ultimately succumbing to the latter. But there is a great
+ complexity of social meanings at work in determining the jury's percep
+ tion of Tom Robinson as a speaker. In a showdown between the word of a
+ black man and a white girl, the courtroom air is thick with the do's and
+ don'ts of racial politics. Telling the truth here is a minefield for Tom
+ Robinson, since if he casts aspersions on the white girl he will be
+ perceived as a presumptuous, lying Negro, yet if he does not publicise
+ Mayella Ewell's attempt to kiss him (which is what really happened), then
+ a guilty verdict is even more nearly assured. (This discursive predicament
+ mirrors his practical predicament at the Ewell's house when Mayella
+ grabbed him. If he pushes her away, he will be found to have assaulted her;
+ yet if he is passive he will equally be found to have assaulted her. So he
+ does the most neutral thing he can, which is to run away, though knowing
+ all the while that this action too will be taken as a sure sign of guilt.)
+ At a pivotal moment during the prosecution's interrogation, Tom
+ Robinson makes the mistake of being honest about his motivations for
+ stopping off at Mayella Ewell's house as regularly as he did to help her out
+ with odd jobs. The scene, like the whole story, is reported from the point
+ of view of Scout, Addicus Finch's little daughter, who is secretly survey
+ ing the proceedings with her brother Jem from the "Negro gallery." Mr
+ Gilmer, the prosecutor, sets him up:
+ "Why were you so anxious to do that woman's chores?"
+ Tom Robinson hesitated, searching for an answer. "Looked like she didn't have
+ nobody to help her, like I says .
+ Mr Gilmer smiled grimly at the jury. "You're a mighty good fellow, it seems -
+ did all this for not one penny?"
+ "Yes suh. I felt right sorry for her, she seemed to try more'n the rest of 'em
+ "You felt sorry for her, you felt sorry for her?" Mr Gilmer seemed ready to rise
+ to the ceiling.
+ The witness realised his mistake and shifted uncomfortably in the chair. But the
+ damage was done. Below us, nobody liked Tom Robinson's answer. Mr Gilmer
+ paused a long time to let it sink in. (Lee 1974, 201)
+ Here the "damage" in question is done to any interpretative sympathy the
+ white jury has so far been human enough to feel towards the black defen
+ dant. For feeling sorry for someone is a taboo sentiment if you are black
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ EPISTEMIC INJUSTICE AND A ROLE FOR VIRTUE 167
+ and the object of your sympathy is a white person. And the fact that Tom
+ Robinson has made the sentiment public raises the stakes in a way that is
+ disastrous for justice, disastrous for him. The trial is a contest between the
+ word of a black man against that of a white girl, and there are those in the
+ jury whose testimonial sensibility is such that the idea that the black man
+ is to be trusted and the white girl distrusted is virtually a psychological
+ impossibility - Robinson's expressed sympathy for a white girl only rein
+ forces that impossibility.
+ As it turns out, the members of the jury stick with their prejudiced
+ perception of the defendant, formed principally by the racial stereotypes of
+ the day. Addicus Finch challenges them to dispense with these stereotypes,
+ to dispense with the "assumption - the evil assumption - that all Negroes
+ lie, that all Negroes are basically immoral beings, that all Negro men are
+ not to be trusted around our women" (Lee 1974, 208). But when it comes
+ to the verdict, the jurors go along with the automatic distrust delivered by
+ their corrupted testimonial sensibility. They find him guilty. And it is
+ important that we are to interpret the novel so that the jurors really do find
+ him guilty. That is to say, they do not privately find him innocent but cyni
+ cally convict him anyway. They really do fail to do what Finch in his
+ summing-up describes as their duty: they fail to believe Tom Robinson.
+ Given the evidence put before them, their immovably prejudiced social
+ perception of Robinson as a speaker leads at once to a gross epistemic fail
+ ure and an appalling ethical failure.
+ Second example: It is the 1950s, and we are in Venice. Herbert
+ Greenleaf, a rich American industrialist, is visiting, accompanied by a
+ private detective he has hired to help solve the mystery of the whereabouts
+ of his renegade son, Dickie. Dickie Greenleaf recently got engaged to his
+ girlfriend, Marge Sherwood, but subsequently spent a great deal of time
+ travelling with their "friend" Tom Ripley - until Dickie mysteriously
+ disappeared. Marge is increasingly distrustful of Ripley because he seems
+ to be obsessed with Dickie and suspiciously bound up with his strange
+ disappearance. She also knows very well that it is unlike Dickie - unreli
+ able philanderer though he undoubtedly was - simply to do a bunk, let
+ alone to commit suicide, which is the hypothesis Ripley is at pains to
+ encourage. Ripley, however, has all along done a successful job of sucking
+ up to Greenleaf senior, so Marge is entirely alone in her suspicion - her
+ correct suspicion - that Tom has in fact killed Dickie.
+ Herbert Greenleaf has just asked Ripley to be as helpful as he can in
+ "filling in the blanks" of Dickie's life to Macarron, the private detective,
+ and Ripley responds:
+ Ripley. I'll try my best, sir. Obviously I'll do anything to help Dickie.
+ Marge looks at him in contempt.
+ Herbert Greenleaf. This theory, the letter he left for you, the police think that's
+ a clear indication he was planning on doing something ... to himself.
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ 168 MIRANDA FRICKER
+ Marge: I just don't believe that!
+ Herbert Greenleaf: You don't want to, dear. I'd like to talk to Tom alone -
+ perhaps this afternoon? Would you mind? Marge, what a man may say to his
+ sweetheart and what he'll admit to another fellow -
+ Marge: Such as? (Minghella 2000, 120-21)
+ Here Marge is being gently, kindly, sidelined by Greenleaf senior, who
+ pathologizes her disbelief that Dickie would kill himself as a sweetheart's
+ wishful thinking. He also seems to assume that Marge is generally inno
+ cent of the more tawdry facts of Dickie's life, so that his primary attitude
+ towards her on the one hand and the-truth-about-Dickie on the other is that
+ she needs protection from it. Greenleaf's everyday theory about what a
+ man may say to his sweetheart, et cetera - though in itself quite possibly
+ true enough - has the effect of undermining Marge as a possessor of
+ knowledge about the lover she had been living with for some time.
+ Greenleaf is only too aware how little he knows of his son - pathetically
+ enthusiastic as he is at the prospect that the private detective might help
+ make good this ignorance - and yet he fails to see Marge as the source of
+ knowledge about Dickie that she manifestly is.
+ This attitude has the knock-on effect that Greenleaf fails to trust one of
+ Marge's key reasons for her correct hypothesis that Dickie has died at the
+ hands of Ripley. Even when Marge finds hard evidence back at Ripley's
+ place, coming across a ring which she had given Dickie and which he had
+ sworn never to remove, still she receives no credibility. Ripley's deliberate
+ tactic is to dismiss her as "hysterical" - a line he continues to peddle in
+ front of Greenleaf in order to get him to share this interpretation. The tactic
+ works, not only on Greenleaf but also on her friend Peter Smith-Kingsley,
+ so that the result is a collusion of men against Marge's word being taken
+ seriously. The theme of knowledge ever to the fore in the dialogue, we at
+ one point hear her off-screen, soon after she finds the ring, saying emphat
+ ically to the incredulous Greenleaf, "I don't know, I don't know, I just
+ know it," and Greenleaf replies with a familiar put-down: "Marge, there's
+ female intuition, and then there are facts - ."
+ A number of these sorts of exchanges build up to the scene in which
+ Marge, being taken back to America, is ushered on to a boat but breaks
+ away to lunge at Ripley, saying, "I know it was you - I know it was you,
+ Tom. I know it was you. I know you killed Dickie. I know it was you."
+ Macarron, the private detective, comes out of the waiting boat to restrain
+ her, and the stage direction reads: "Ripley looks at him as if to say: What
+ can you do, she's hysterical. Macarron nods, pulls her onto the boat." As
+ the viewer is aware, however, Marge was right: she did know; she knew
+ Dickie well; and she knew Ripley had killed him. Her suspicions should
+ have been listened to; she of all people should have been given some cred
+ ibility. But Ripley cynically exploits the gender attitudes of the day so that
+ the kindly and well-meaning men around her effectively collude with him
+ to make her seem epistemically untrustworthy.
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ EPISTEMIC INJUSTICE AND A ROLE FOR VIRTUE 169
+ What both these examples present us with, in their different ways, is a
+ case of a hearer failing to correct for one or another sort of prejudice in his
+ testimonial sensibility. Both Greenleaf and the members of Maycomb
+ County's jury fail to distrust their own distrust9 of the speaker. They fail
+ to adjust for the way in which their testimonial sensibility is badly trained.
+ In the formal courtroom context of Tom Robinson's trial, they have ample
+ opportunity to sense the dissonance between the distrust that their defec
+ tive sensibility spontaneously delivers and the trust that attention to the
+ evidence ought to inspire. Even if members of the jury were to be forgiven
+ for the way their sensibility is saturated with the prejudices of the day,
+ they remain starkly culpable in failing to respond appropriately to the new
+ testimonial experience afforded by the trial. In the case of Herbert
+ Greenleaf, he fails to correct for the way in which his habits of hearer
+ response are saturated with the sexist constructions of gender - notably,
+ ideas of women's innocence concerning the truths of men, and their need
+ to be protected from such truths; ideas of feminine intuitiveness being an
+ obstacle to rational judgement; and even ideas of a female susceptibility
+ to hysterics.
+ But it is not simply a matter of failure properly to accommodate the
+ speaker's social identity. In both examples, the hearers fail to adjust for the
+ way in which their own social identity affects the testimonial exchange.
+ The jury fails to account for the difference it makes to Tom Robinson's
+ "performance" as a speaker (in the wide sense of performance, to include
+ both what he does and how the audience responds) not only that he is black
+ but equally that they are white. What Greenleaf fails to account for in his
+ sceptical responses to Marge is the difference it makes to her performance
+ not only that she is a woman but also that he is a man. The relation - a rela
+ tion of power - between the social identities of hearer and speaker influ
+ ence both how the speaker expresses herself and how the hearer responds.
+ Our two examples, then, demonstrate that testimonial responsibility
+ requires a distinctly reflexive critical awareness. Had Marge shouted her
+ accusations in the presence of Mrs Herbert Greenleaf, one speculates that
+ she might have received from her some greater degree of credibility. That
+ things would have gone differently at Tom Robinson's trial if the members
+ of the jury had been black goes without saying.
+ Thus we have arrived at the final feature of the anti-prejudicial testimo
+ nial virtue we have been looking for: it is essentially reflexive. Its posses
+ sion means that the hearer reliably succeeds in correcting for the way
+ testimonial performance can be prejudiced by the inter-relation of the
+ hearer's social identity and the speaker's social identity. In testimonial
+ exchanges, for hearers and speakers alike, no party is neutral - everybody
+ has a race, everybody has a gender. What is needed on the part of the
+ 9 I borrow this formulation from Jones 2002, in which she explores the themes of power
+ and credibility specifically concerning astonishing reports.
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ 170 MIRANDA FRICKER
+ hearer, then, in order to avert an epistemic injustice (and in order to serve
+ his own epistemic interest in the truth) is a virtue of Reflexive Critical
+ Openness. This is the virtue we have been aiming to identify by attending
+ to the phenomenon of testimonial injustice.
+ 5. The Virtue of Reflexive Critical Openness - Historicism
+ The virtue of Reflexive Critical Openness is an especially hard virtue to
+ achieve at the best of times, inasmuch as prejudice is a powerful visceral
+ force, functioning less at the level of propositional attitudes and more at
+ the level of the social-imaginative and emotional commitments that colour
+ one's perceptions of speakers. (Even if one were only faced with correct
+ ing for prejudice at the level of belief, this can still be very hard while
+ those beliefs are propped up by motivational attitudes in this way. As
+ Christopher Hookway [2001, e.g., 182] has argued, there is the usual room
+ for akrasia in the practical business of managing one's epistemic habits.)
+ Clearly, however, it is in principle achievable, and the virtue will be an
+ integral part of any well-trained testimonial sensibility in so far as the risk
+ of prejudice-induced credibility deficit is an inevitable feature of epistemic
+ life. The human condition is a social condition, and social relations
+ inevitably create space for prejudice.
+ Yet, there are circumstances under which the virtue cannot be achieved,
+ for it is a notable and ethically significant feature of this virtue that it
+ displays a special sort of cultural-historical contingency. In order to
+ explain this, let me follow Linda Zagzebski's (1996) definition of virtue
+ such that virtues have both a motivational component and a component of
+ reliable success in bringing about the end of that motivation. In the case of
+ intellectual virtues there will always be a motivation to achieve truth, but
+ usually there will also be a more proximal aim to achieve something that
+ is conducive to truth - notably here the aim of ensuring that one's levels of
+ trust are untainted by prejudice. As a matter of definition, then, the intel
+ lectually virtuous subject will be reliably successful in fulfilling that prox
+ imal aim of ensuring against prejudice, and she will succeed in this by
+ achieving reflexive critical awareness of the prejudicial distortions in her
+ existing testimonial sensibility and by correcting for those distortions.
+ It must now be acknowledged, however, that the ability to do that is
+ dependent upon the cultural-historical setting. A setting in which there is
+ little critical awareness of gender is a setting in which no-one is in a posi
+ tion to possess the virtue of Reflexive Critical Openness vis-a-vis gender
+ prejudice of any subtle kind. While the Herbert Greenleafs of this world
+ were always at fault in failing to exhibit the virtue, I would suggest they
+ were not culpably at fault until the requisite critical consciousness of
+ gender became available to them. They were not culpably at fault until
+ they were in a position to know better. Now there will of course be no
+ precise answer to the question of at what point a Herbert Greenleaf comes
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ EPISTEMIC INJUSTICE AND A ROLE FOR VIRTUE 171
+ to be in a position where he should know better than to overlook the possi
+ bility that Marge was right. But no doubt someone like him will be in that
+ position long before he actually lives up to it by taking on board the
+ gender-critical insights newly available to him. Thus there will tend to be
+ some period of historical transition in which a Herbert Greenleaf, well
+ intentioned and paternal as he may remain, moves from innocent fault to
+ culpable fault. He lacked the virtue of Reflexive Critical Openness with
+ regard to women speakers all along, but the relevant advance in collective
+ consciousness will mean that this shortcoming in his epistemic conduct,
+ and in the testimonial sensibility behind it, will have become blamewor
+ thy.
+ This shows that the power to possess the virtue of Reflexive Critical
+ Openness depends upon the social-historical context. The case of Herbert
+ Greenleaf, as I have characterised it, exemplifies the idea that one cannot
+ be blamed for failing to do something one wasn't in a position to have
+ reason to do. Essentially this is an instance of the maxim that "ought"
+ implies "can," since in our example the "can" part is a matter of whether
+ Greenleaf could reasonably be expected to achieve the critical perspective
+ on gender that would have given him a reason to cast doubt on his lack of
+ trust in Marge's word. More specifically, and more controversially, we
+ might think of ourselves as having arrived at an insight into the structure
+ of responsibility that is advanced by Bernard Williams (1995, 35) in terms
+ of the internality of practical reasons. It would not be right to blame some
+ one for an action or omission unless there existed a "sound deliberative
+ route" from that person's actual motivational set ("the set of his desires,
+ evaluations, attitudes, projects, and so on"). Whatever one thinks about the
+ disagreements between so-called internal and external reasons theorists, it
+ is worth noting that our intellectual case could not be controversial in
+ anything like the way the ethical case is. This is because it could not be
+ controversial to presume that all epistemic subjects possess in their moti
+ vational set a general motivation to aim at truth, and a fortiori to aim at
+ more proximal ends which are in the service of that general motivation
+ (such as correcting for prejudice in one's habits of trust, for instance).
+ Given this, it is clear that not just Herbert Greenleaf but even the most
+ virulent, dyed-in-the-wool sexist version of Herbert Greenleaf possesses a
+ motivation (the motivation to truth) from which there might be a sound
+ deliberative route to distrusting his lack of trust in Marge. It is not the lack
+ of a motivation, then, that explains why Greenleaf "cannot" do what he
+ ought - cannot exhibit the appropriate virtue. It is rather the unavailability
+ to him of a sound deliberative route from that veridical motivation to the
+ conclusion that he should doubt his lack of trust in Marge. There is no such
+ sound deliberative route available to him, in as much as the critical concepts
+ in which that deliberation would have to be couched are genuinely not yet
+ available. On this (perhaps rather charitable) interpretation, then, Greenleaf
+ is unlucky, epistemically and morally. His non-culpable inability to exhibit
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ 172 MIRANDA FRICKER
+ the virtue of Reflexive Critical Openness not only means that he misses out
+ on a truth that he is especially interested in acquiring (Marge is right;
+ Ripley is Dickie's murderer) but also means he inflicts a significant injus
+ tice on Marge. She is treated as a hysterical female who cannot handle the
+ truth, someone who deserves protection and sympathy but not epistemic
+ trust. If one's rationality is an essential part of one's humanity, then Marge
+ is gently undermined in her very humanity.
+ Evidently testimonial injustice will tend to imitate the broader struc
+ tures of power in society, and where it is systematic we should recognise
+ it as a face of oppression. In an essay on the nature of oppression Sandra
+ Lee Bartky (1990, 30) quotes Frantz Fanon's notion of "psychic alien
+ ation," where the alienation in question consists in "the estrangement of
+ separating off a person from some of the essential attributes of person
+ hood." I take it that basic forms of epistemic agency, such as functioning
+ as an informant on everyday matters, is indeed one of the essential attrib
+ utes of personhood - it is part and parcel of being accepted as a compatriot
+ in the community of the rational. If this is so, then an epistemic climate in
+ which some people suffer systematic testimonial injustice must be
+ regarded as seriously defective both epistemically and ethically. It is the
+ site not simply of error and frustration, advantage and disadvantage, but of
+ a distinctively epistemic kind of oppression. We have seen that the virtue
+ of Reflexive Critical Openness (and doubtless many other virtues besides)
+ has an important role in combating this sort of oppression. But as some
+ thing possessed of mere individuals whose social-historical situation can
+ deprive them of the very resources they need in order to attain the virtue,
+ its anti-oppressive power remains hostage to the broader social structures
+ in which our testimonial practices must take place.
+ School of Philosophy
+ Birkbeck College
+ University of London
+ Malet Street
+ London WC1E 7HX
+ United Kingdom
+ mfricker@ philosophy, bbk. ac. uk
+ References
+ Bartky, Sandra Lee. 1990. "On Psychological Oppression." In Femininity
+ and Domination: Studies in the Phenomenology of Oppression, 22-32.
+ London: Routledge.
+ Coady, C. A. J. 1992. Testimony: A Philosophical Study. Oxford:
+ Clarendon Press.
+ Fricker, Elizabeth. 1987. "The Epistemology of Testimony." Proceedings
+ of the Aristotelian Society (supplementary volume) 61: 57-83.
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms
+ EPISTEMIC INJUSTICE AND A ROLE FOR VIRTUE 173
+ — —. 1994. "Against Gullibility." In Knowing from Words, edited by B.
+ K. Matilal and A. Chakrabarti. Dordrecht, The Netherlands: Kluwer.
+ Fricker, Miranda. 2000. "Confidence and Irony." In Morality, Reflection,
+ and Ideology, edited by E. Harcourt, 87-112. Oxford: Oxford
+ University Press.
+ Jones, Karen. 1996. "Trust as an Affective Attitude." Ethics 107: 4—25.
+ . 2002. "The Politics of Credibility." In A Mind of One's Own:
+ Feminist Essays on Reason and Objectivity, edited by L. Antony and C.
+ Witt, 154—76. Boulder, Col.: Westview Press.
+ Lee, Harper. 1974. To Kill A Mockingbird. London: Pan Books.
+ Hookway, Christopher. 2001. "Epistemic Akrasia and Epistemic Virtue."
+ In Virtue Epistemology: Essays on Epistemic Virtue and Responsibility,
+ edited by A. Fairweather and L. Zagzebski, 178-99. Oxford: Oxford
+ University Press.
+ Maclntyre, Alasdair. 1981. After Virtue: A Study in Moral Theory. London:
+ Duckworth.
+ McDowell, John. 1994. Mind and World. Cambridge, Mass.: Harvard
+ University Press.
+ . 1998. "Knowledge by Hearsay." In Meaning, Knowledge, and
+ Reality, essay 19. Cambridge, Mass.: Harvard University Press.
+ Minghella, Anthony. 2000. The Talented Mr Ripley. London: Methuen.
+ Williams, Bernard. 1995. "Internal Reasons and the Obscurity of Blame."
+ In Making Sense of Humanity and Other Philosophical Papers, chapter
+ 3. Cambridge: Cambridge University Press.
+ Zagzebski, Linda. 1996. Virtues of the Mind: An Inquiry into the Nature of
+ Virtue and the Ethical Foundations of Knowledge. Cambridge:
+ Cambridge University Press.
+ © Metaphilosophy LLC and Blackwell Publishing Ltd. 2003
+This content downloaded from 147.126.1.145 on Sat, 09 Mar 2019 04:44:31 UTC
+All use subject to https://about.jstor.org/terms

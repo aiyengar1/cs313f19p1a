@@ -37,4 +37,12 @@ public class testTopWords {
         assertEquals("up", input.next());
         assertFalse(input.hasNext());
     }
+
+    @Test
+    public void testIteratorEmpty() {
+        final Iterator<String> input = Arrays.asList(
+                new String[]{}
+        ).iterator();
+        assertFalse(input.hasNext());
+    }
 }

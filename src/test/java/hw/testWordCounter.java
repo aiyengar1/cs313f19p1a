@@ -62,4 +62,28 @@ import org.junit.Test;
          assertEquals(4, fixture.getCount("yellow"));
      }
   */
+
+  @Test
+  public void testIteratorNonempty() {
+   final Iterator<String> input = Arrays.asList(
+           new String[]{"hello", "world", "what", "up"}
+   ).iterator();
+   assertTrue(input.hasNext());
+   assertEquals("hello", input.next());
+   assertTrue(input.hasNext());
+   assertEquals("world", input.next());
+   assertTrue(input.hasNext());
+   assertEquals("what", input.next());
+   assertTrue(input.hasNext());
+   assertEquals("up", input.next());
+   assertFalse(input.hasNext());
+  }
+
+  @Test
+  public void testIteratorEmpty() {
+   final Iterator<String> input = Arrays.asList(
+           new String[]{}
+   ).iterator();
+   assertFalse(input.hasNext());
+  }
 }

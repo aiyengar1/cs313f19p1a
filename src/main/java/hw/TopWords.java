@@ -64,6 +64,9 @@ public class TopWords {
             //System.out.println("input has Next Line");
             while (input.hasNext()) {
                 //System.out.println("input has Next");
+
+                //get input, create event, throw event
+
                 final String nextWord = (String) input.next();
 
                 if (nextWord.length() >= minlength) {
