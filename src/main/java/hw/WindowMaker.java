@@ -53,7 +53,7 @@ public class WindowMaker {
         while (input.hasNextLine()) {
             while (input.hasNext()) {
 
-                final String nextWord = (String) input.next();
+                final String nextWord = (String) input.next().toLowerCase();
 
                 if (nextWord.length() >= minlength) {
                     if (count == lastnwords) {
