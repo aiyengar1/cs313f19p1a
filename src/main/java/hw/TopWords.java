@@ -20,10 +20,14 @@ public class TopWords {
         if (!"Windows".equals(System.getProperty("os.name"))) {
             Signal.handle(new Signal("PIPE"), (final Signal sig) -> System.exit(1));
         }
-
+        //create and call observer
         WindowMaker wm;
         wm = new WindowMaker(args);
+
+        //create observable
         WordCounter wc = new WordCounter();
+
+        //pass observable into observer and start
         wm.setUpdater(wc);
         wm.start();
     }

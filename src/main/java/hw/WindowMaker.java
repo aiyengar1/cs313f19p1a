@@ -6,12 +6,13 @@ import java.util.Queue;
 import java.util.Scanner;
 
 public class WindowMaker {
+    //grab the input
     final Scanner input = new Scanner(System.in).useDelimiter("(?U)[^\\p{Alpha}0-9']+");
     int howmany = 0, minlength = 0, lastnwords = 0;
     WordCounter myUpdater;
 
     public WindowMaker(String[] args) {
-        System.out.println("Program started");
+        //Assign the appropriate numbers to be howmany, minlength, and lastnwords
         switch (args.length) {
             case 0:
                 howmany = 10;
@@ -58,19 +59,19 @@ public class WindowMaker {
                     if (count == lastnwords) {
                         //add nextWord to queue
                         queue.add(nextWord);
-                        //remove oldest word from map
+                        //tell the observer to update the cloud
                         myUpdater.updateCloud(queue.element(), 1, nextWord, howmany);
                     } else if (count == lastnwords - 1) {
                         //add nextWord to queue
                         queue.add(nextWord);
-                        //add nextWord to WordCount HashMap
+                        //tell the observer to update the cloud
                         myUpdater.updateCloud(queue.element(), 2, nextWord, howmany);
                         //increment count
                         count++;
                     } else {
                         //add nextWord to queue
                         queue.add(nextWord);
-                        //add nextWord to Map
+                        //tell the observer to add the word to the map
                         myUpdater.updateCloud(queue.element(), 3, nextWord, howmany);
                         //don't print word cloud
                         //increment count

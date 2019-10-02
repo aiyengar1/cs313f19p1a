@@ -17,14 +17,16 @@ public class WordCounter {
     private int size = 0;
 
 
-    //Creates a word counter instance and sets the map size.
+    //Creates a word counter instance
     public WordCounter() {
     }
 
+    //set the map size to be lastnwords
     public void setCloudSize(int mapsize) {
         this.size = mapsize;
     }
 
+    //when told by the observable, update the word cloud accordingly
     public void updateCloud(String wordtoDelete, int option, String word, int howmany) {
         switch (option) {
             case 1:
