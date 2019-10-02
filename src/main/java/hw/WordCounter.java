@@ -10,7 +10,7 @@ import static java.util.stream.Collectors.toMap;
 /**
  * A map-based class for counting word frequencies
  */
-public class WordCounter {
+public class WordCounter extends Observable {
 
     //The map for storing the word counts.
     private HashMap<String, Integer> theMap = new HashMap<>();

@@ -26,30 +26,6 @@ import org.junit.Test;
   }
 */
  /*
-  @Test
-     public void testTrivial(){
-      final ArrayList<String> input = new ArrayList<>();
-      Collections.sort(input);
-      assertTrue(input.isEmpty());
-
-  }
-  @Test
-     public void testMain() {
-      final Iterator<String> input = Arrays.asList(
-              new String[] {"hello", "world", "what", "up"}
-      ).iterator();
-      assertTrue(input.hasNext());
-      assertEquals("hello", input.next());
-      assertTrue(input.hasNext());
-      assertEquals("world", input.next());
-      assertTrue(input.hasNext());
-      assertEquals("what", input.next());
-      assertTrue(input.hasNext());
-      assertEquals("up", input.next());
-      assertFalse(input.hasNext());
-  }
-
-
      @Test
      public void addWord() {
          assertNotNull(fixture);
@@ -86,4 +62,15 @@ import org.junit.Test;
    ).iterator();
    assertFalse(input.hasNext());
   }
+
+  //Test for number of words less than lastnwords
+  @Test
+  public void testNotEnoughWords() {
+   final Iterator<String> input = Arrays.asList(new String[]{}).iterator();
+  }
+  //Test for number of unique words less than howmany
+
+  //Test for no words bigger than minlength
+
+  //
 }
