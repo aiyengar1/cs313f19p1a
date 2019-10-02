@@ -69,9 +69,11 @@ public class WordCounter {
     }
 
     public int getCount(final String word) {
-
         return theMap.get(word);
+    }
 
+    public int getSize() {
+        return this.size;
     }
 
     public Map<String, Integer> getSortedWords(final Map<String, Integer> unsortedMap) {

@@ -72,6 +72,7 @@ public class testWindowMaker {
         assertTrue(result.isEmpty());
     }*/
 
+
     //Test for number of words less than lastnwords
     @Test
     public void testNotEnoughWords() {
