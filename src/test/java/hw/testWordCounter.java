@@ -71,7 +71,7 @@ public class testWordCounter {
         wc.addWord("elephant");
         wc.addWord("yellow");
         wc.addWord("yellow");
-        String testString = "\n elephant: 2 \n yellow: 2";
-        //assertEquals(testString, wc.toString());
+        String testString = "\n\n elephant: 2\n yellow: 2\n";
+        assertEquals(testString, wc.toString(4));
     }
 }
