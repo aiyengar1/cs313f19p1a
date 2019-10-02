@@ -10,7 +10,7 @@ import static java.util.stream.Collectors.toMap;
 /**
  * A map-based class for counting word frequencies
  */
-public class WordCounter extends Observable {
+public class WordCounter {
 
     //The map for storing the word counts.
     private HashMap<String, Integer> theMap = new HashMap<>();
@@ -18,10 +18,29 @@ public class WordCounter extends Observable {
 
 
     //Creates a word counter instance and sets the map size.
-    public WordCounter(int worldcloudsize) {
+    public WordCounter() {
+    }
 
-        // TODO
-        this.size = worldcloudsize;
+    public void setCloudSize(int mapsize) {
+        this.size = mapsize;
+    }
+
+    public void updateCloud(String wordtoDelete, int option, String word, int howmany) {
+        switch (option) {
+            case 1:
+                this.decreaseFrequency(wordtoDelete);
+                this.addWord(word);
+                System.out.println(this.toString(howmany));
+                break;
+            case 2:
+                this.addWord(word);
+                System.out.println(this.toString(howmany));
+                break;
+            case 3:
+                this.addWord(word);
+                break;
+        }
+
     }
 
     public void addWord(final String word) {
